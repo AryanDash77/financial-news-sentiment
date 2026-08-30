@@ -1,0 +1,14 @@
+# Environments
+fin-sentiment/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Data (keep raw data out of git; document how to get it in README instead)
+data/raw/
+*.csv
+
+# OS/editor
+.vscode/
+.DS_Store
+
